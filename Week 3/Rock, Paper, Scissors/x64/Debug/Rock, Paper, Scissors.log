@@ -1,0 +1,4 @@
+﻿  Rock, Paper, Scissors.cpp
+C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 3\Rock, Paper, Scissors\Rock, Paper, Scissors.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 3\Rock, Paper, Scissors\Rock, Paper, Scissors.cpp(22): warning C4715: 'getComputerOption': not all control paths return a value
+  Rock, Paper, Scissors.vcxproj -> C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 3\Rock, Paper, Scissors\x64\Debug\Rock, Paper, Scissors.exe

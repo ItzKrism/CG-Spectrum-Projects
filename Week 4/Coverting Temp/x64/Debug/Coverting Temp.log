@@ -1,0 +1,4 @@
+﻿  Coverting Temp.cpp
+C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 3\Coverting Temp\Coverting Temp.cpp(30,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 3\Coverting Temp\Coverting Temp.cpp(40,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Coverting Temp.vcxproj -> C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 3\Coverting Temp\x64\Debug\Coverting Temp.exe

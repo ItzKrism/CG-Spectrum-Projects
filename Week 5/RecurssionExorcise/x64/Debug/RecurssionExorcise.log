@@ -1,0 +1,3 @@
+﻿  RecurssionExorcise.cpp
+C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 5\RecurssionExorcise\RecurssionExorcise.cpp(10,5): error C3861: 'mergesort': identifier not found
+C:\Users\Diana Lewis\Documents\CG Spectrum Work\Week 5\RecurssionExorcise\RecurssionExorcise.cpp(16,5): error C3861: 'mergesorthelper': identifier not found
